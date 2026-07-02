@@ -1,0 +1,15 @@
+streamlit
+flask
+tensorflow
+torch
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+opencv-python
+Pillow
+google-generativeai
+python-dotenv
+nltk
